@@ -1,0 +1,15 @@
+///////////////////////////////////////////////////////////////////////////////
+// Polish C
+// Bo, kurwa, możemy. A co!
+// Róbta co chceta XD
+///////////////////////////////////////////////////////////////////////////////
+
+#include "polishc.h"
+#include <stdio.h>
+#include "polishc_stdio.h"
+
+noelo {
+	wypisz("No to trzymajcie sie!\n");
+	wypisz("Ja lece xdd");
+	zegnam koledzy;
+}
