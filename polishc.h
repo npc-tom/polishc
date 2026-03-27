@@ -6,7 +6,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 #ifndef POLISH_C
 #define POLISH_C
-#define POLISH_C_VER "0.001g"
+#define POLISH_C_VER "0.001h"
 #define jezeli if
 #define jesli if
 #define albo else
@@ -32,4 +32,10 @@
 #define jednosc union
 #define noelo int main()
 #define siemano int main
+// Dzięki wielorzeczownik <3
+#define dopoki while
+#define dla for
+#define rob do
+#define przerwij break
+#define kontynuuj continue
 #endif	// POLISH_C

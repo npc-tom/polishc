@@ -20,4 +20,7 @@
 #define prawdaczyfałsz bool
 #define zmiennoprzecinkowaalewiększa double
 #define jedność union
+// Dzięki wielorzeczownik <3
+#define dopóki while
+#define rób do
 #endif	// POLISH_C_EXT_DIACRITICS
